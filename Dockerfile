@@ -1,1 +1,1 @@
-FROM nvidia/cuda:12.0.0-devel-ubuntu22.04
+FROM pytorch/pytorch:2.1.2-cuda11.8-cudnn8-runtime

@@ -1,1 +1,1 @@
-FROM ubuntu/python:3.10-22.04_stable
+FROM nvidia/cuda:12.0.0-devel-ubuntu22.04

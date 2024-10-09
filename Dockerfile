@@ -1,1 +1,1 @@
-FROM pytorch/pytorch:2.1.2-cuda11.8-cudnn8-runtime
+FROM ubuntu/python:3.10-22.04_stable

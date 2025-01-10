@@ -1,1 +1,1 @@
-FROM pytorch/pytorch:2.1.2-cuda12.1-cudnn8-runtime
+FROM pytorch/pytorch:2.1.2-cuda11.8-cudnn8-runtime

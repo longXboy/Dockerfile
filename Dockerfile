@@ -1,1 +1,1 @@
-FROM nvidia/cuda:11.8.0-cudnn8-devel-ubuntu22.04
+FROM lmsysorg/sglang:v0.4.2.post2-cu118

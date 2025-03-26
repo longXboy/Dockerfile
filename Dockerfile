@@ -5,5 +5,5 @@ RUN pip install protobuf oss2 scikit-learn peft nvitop tensorboardx qwen_vl_util
 RUN git clone https://github.com/om-ai-lab/VLM-R1.git && \
     cd VLM-R1 && \
     git checkout 6aeb354d945deec5fe58e79faa68598f3935b881 && \
-    cd 3rd_party/VLM-R1/src/open-r1-multimodal && \
+    cd src/open-r1-multimodal && \
     pip install -e ".[dev]"

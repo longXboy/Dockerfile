@@ -1,1 +1,1 @@
-FROM nvidia/cuda:11.8.0-cudnn8-devel-ubuntu22.04
+FROM ascendai/cann:8.0.0-910b-ubuntu22.04-py3.10
